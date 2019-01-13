@@ -1,4 +1,4 @@
-# 常用命令
+﻿# 常用命令
     git status         			    --查看当前工作情况
     git add 文件名     				--添加到暂存区
     git commit -m '描述内容'        --提交到git仓库
@@ -9,3 +9,6 @@
     3.向仓库添加文件
 # 将github项目克隆到本地
     git clone + 地址
+# 删除文件
+	git rm 文件名
+	
